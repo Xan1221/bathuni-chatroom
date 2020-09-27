@@ -23,10 +23,9 @@ How to operate the program:
   Button to send messages to other clients. On the command line version you simply type
   Something into the console and then click enter.
     
-                                        Extra features
-                -ccp and -cca are provided in this version of the chat room these
-                can be implemented by just including them with the port/IP address you
-                want to use when typing the command to start the program.
+ 5)Extra features: -ccp and -cca are provided in this version of the chat room these
+   can be implemented by just including them with the port/IP address you
+   want to use when typing the command to start the program.
 
 
 
